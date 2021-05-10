@@ -1,3 +1,5 @@
+NOTE: some stuff in it can cause it to bug out and not output images as they should.
+
 Works with python 3.7,not guarenteed to work with other python version,you can get python by looking it up on google
 
 run install.cmd before using the program
